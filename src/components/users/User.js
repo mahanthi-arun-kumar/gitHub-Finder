@@ -19,9 +19,7 @@ class User extends Component {
   render() {
     const {
       name,
-      avatar,
       company,
-      url,
       bio,
       blog,
       login,
